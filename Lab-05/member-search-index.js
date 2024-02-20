@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"gradeCalculator","l":"grade(int)"},{"p":"org.example","c":"gradeCalculator","l":"gradeCalculator()","u":"%3Cinit%3E()"}];updateSearchResults();
