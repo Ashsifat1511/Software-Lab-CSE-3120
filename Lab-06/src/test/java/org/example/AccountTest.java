@@ -25,6 +25,8 @@ class AccountTest {
     void setBalance() {
         account = new Account(1,3000);
         account.setBalance(4000);
-        assertEquals(account.getBalance(),4000);
+        //assertEquals(account.getBalance(),4000);
+        assertEquals(4000,account.getBalance());
     }
+
 }
